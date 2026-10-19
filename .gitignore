@@ -1,0 +1,12 @@
+.local/
+venv/
+__pycache__/
+.env
+.idea
+*.csv
+!sample_data/*.csv
+*_run_output.txt
+.venv/
+.claude/
+.vscode/
+*.json.key
